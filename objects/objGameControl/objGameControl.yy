@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Balls of Life",
-    "path": "Balls of Life.yyp",
+    "name": "Pong-Wars",
+    "path": "Pong-Wars.yyp",
   },
   "parentObjectId": null,
   "persistent": false,
