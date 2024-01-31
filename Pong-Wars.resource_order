@@ -1,0 +1,13 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Sprites","order":8,"path":"folders/Sprites.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"objBrick","order":6,"path":"objects/objBrick/objBrick.yy",},
+    {"name":"sprBallWhite","order":1,"path":"sprites/sprBallWhite/sprBallWhite.yy",},
+    {"name":"objGameControl","order":4,"path":"objects/objGameControl/objGameControl.yy",},
+    {"name":"objBoundary","order":5,"path":"objects/objBoundary/objBoundary.yy",},
+    {"name":"objBall","order":7,"path":"objects/objBall/objBall.yy",},
+    {"name":"Room1","order":1,"path":"rooms/Room1/Room1.yy",},
+  ],
+}
